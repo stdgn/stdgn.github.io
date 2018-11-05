@@ -5,22 +5,16 @@
 * [RStudio Server](http://shiny.stedogin.xyz:8787 "RStudio Server")
 <br/>
 
-
-
 # Research & Analysis
 * MTG Analysis
 * 10-Hour Youtube Videos Analysis 
-
-
-
+<br/>
 
 # Social Media
 * Twitter Account Monitoring
 * Twitter Wordclouds
 * Twitter Datasets (hashtags, politicians, reporters, etc.)
-
-
-
+<br/>
 
 # Mining
 * Hebrew Bible Scraping
