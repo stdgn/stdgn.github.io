@@ -1,32 +1,16 @@
+# STEDOGIN
+
 ## Private R Shiny Server
-Lorem ipsum dolor sit amet
-### Kvisi Dashboard
-Lorem ipsum dolor sit amet
-
-
+Kvisi Dashboard  
 ## Public R Shiny Server
-Lorem ipsum dolor sit amet
-
-
-_[RStudio Server](http://shiny.stedogin.xyz:8787 "RStudio Server")_
-
-
-
+* _[Sample Apps](http://shiny.stedogin.xyz/sample-apps "Sample Shiny Apps")_
+* _[RStudio Server](http://shiny.stedogin.xyz:8787 "RStudio Server")_
 ## Research & Analysis
-### MTG Analysis
-Lorem ipsum dolor sit amet
-### 10-Hour Youtube Videos Analysis
-Lorem ipsum dolor sit amet
-
-
+* MTG Analysis
+* 10-Hour Youtube Videos Analysis
 ## Social Media
-### Twitter Account Monitoring
-Lorem ipsum dolor sit amet
-### Twitter Wordclouds
-Lorem ipsum dolor sit amet
-### Twitter Datasets (hashtags, politicians, reporters, etc.)
-Lorem ipsum dolor sit amet
-
-
+* Twitter Account Monitoring
+* Twitter Wordclouds
+* Twitter Datasets (hashtags, politicians, reporters, etc.)
 ## Mining
-### Hebrew Bible Scraping
+* Hebrew Bible Scraping
