@@ -5,10 +5,12 @@
 * [RStudio Server](http://shiny.stedogin.xyz:8787 "RStudio Server")
 <br/>
 <br/>
+<br/>
 
 # Research & Analysis
 * MTG Analysis
 * 10-Hour Youtube Videos Analysis 
+<br/>
 <br/>
 <br/>
 
@@ -16,6 +18,7 @@
 * Twitter Account Monitoring
 * Twitter Wordclouds
 * Twitter Datasets (hashtags, politicians, reporters, etc.)
+<br/>
 <br/>
 <br/>
 
