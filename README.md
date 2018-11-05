@@ -15,6 +15,7 @@
 * Twitter Account Monitoring
 * Twitter Wordclouds
 * Twitter Datasets (hashtags, politicians, reporters, etc.)
+* Whatsapp Chat Analysis
 <br/>
 <br/>
 
