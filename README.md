@@ -6,7 +6,7 @@
 <br/>
 
 ## Research & Analysis
-* MTG Analysis
+* [MTG Analysis](http://www.stedogin.xyz/mtg "Magic: The Gathering Analysis")
 * 10-Hour Youtube Videos Analysis 
 <br/>
 <br/>
